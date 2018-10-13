@@ -11,7 +11,7 @@ html {
 
 h1 {
   display: block;
-  font-family: Bevan, sans-serif;
+  font-family: "Bevan", sans-serif;
 }
 
 a {
@@ -34,7 +34,7 @@ body {
   border-color: #595652;
   border-style: solid;
   border-width: .1em;
-  margin: .3em;
+  margin: .125em;
 }
 
 li {
