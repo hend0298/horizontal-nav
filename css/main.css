@@ -4,6 +4,10 @@ html {
   text-align: center;
 }
 
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
 h1 {
   display: block;
   font-family: Bevan, sans-serif;
@@ -32,6 +36,5 @@ body {
 }
 
 li {
-  display: block;
-  float: left;
+  display: inline-block;
 }
