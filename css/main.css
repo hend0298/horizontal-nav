@@ -38,3 +38,7 @@ body {
 li {
   display: inline-block;
 }
+
+a:hover {
+  background-color: #f33;
+}
