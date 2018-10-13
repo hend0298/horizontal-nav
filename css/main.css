@@ -1,5 +1,6 @@
 html {
   background-color: #dbd6cf;
+  box-sizing: border-box;
   color: #fff;
   text-align: center;
 }
@@ -33,6 +34,7 @@ body {
   border-color: #595652;
   border-style: solid;
   border-width: .1em;
+  margin: .3em;
 }
 
 li {
